@@ -1,4 +1,4 @@
-package com.virjanand.recipe;
+package com.virjanand.recipe.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
